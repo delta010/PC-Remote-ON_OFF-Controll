@@ -26,7 +26,7 @@ The project is used to remotely turn on and off your pc. It uses MQTT for commun
 
  <h2>firmware </h2>
 
-   - Arduino Sketch [file](https://github.com/delta010/Zigbee-8-Button-Remote/blob/main/8_button_FreePad.hex)
+   - Arduino Sketch [file](https://github.com/delta010/PC-Remote-ON_OFF-Controll/blob/main/pcmcu.ino)
 
  
 
