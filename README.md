@@ -32,7 +32,7 @@ The project is used to remotely turn on and off your pc. It uses MQTT for commun
 
 <h2>Custom PCB Gerber</h2>
   
-   -  Gerber [File](https://github.com/delta010/Zigbee-8-Button-Remote/blob/main/zigbeeremote.zip)
+   -  Gerber [File](https://github.com/delta010/PC-Remote-ON_OFF-Controll/blob/main/pcpowerwifi.zip)
  
 <h2>ScreenShots</h2> 
 
