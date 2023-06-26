@@ -38,11 +38,11 @@ The project is used to remotely turn on and off your pc. It uses MQTT for commun
 
 <p align="center">
  <br/>
-<img src="https://github.com/delta010/Zigbee-8-Button-Remote/assets/29528880/332f5af3-65e1-4bd1-a0b9-518436f0dfa5" />
+<img src="https://github.com/delta010/PC-Remote-ON_OFF-Controll/assets/29528880/97a3cd97-1164-46bf-bf81-2cf73cbf5fa1" />
 <br />
 
 
-<img src="https://github.com/delta010/Zigbee-8-Button-Remote/assets/29528880/f2bc9e9e-bf71-4d7c-af63-444830fe5a1c"/>
+<img src="https://github.com/delta010/PC-Remote-ON_OFF-Controll/assets/29528880/4c1710f2-741e-413b-b12d-1aaa8dc4a9df"/>
 <br />
 <br />
 
