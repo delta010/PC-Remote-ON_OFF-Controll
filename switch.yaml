@@ -1,0 +1,8 @@
+switch:
+  - platform: mqtt
+    name: "Lindsays PC"
+    state_topic: "state/PC"
+    command_topic: "commands/PC"
+    payload_on: "ON"
+    payload_off: "OFF"
+    retain: false
